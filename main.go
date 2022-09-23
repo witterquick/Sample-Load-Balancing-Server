@@ -7,9 +7,9 @@ import (
 	"net"
 	"sync"
 
-	"google.golang.org/grpc"
+	"https://pkg.go.dev/google.golang.org/grpc"
 
-	pb "github.com/lixd/grpc-go-example/features/proto/echo"
+	pb "https://github.com/grpc/grpc-go/tree/master/examples/features/proto/echo"
 )
 
 var (
