@@ -7,7 +7,7 @@ import (
 	"net"
 	"sync"
 
-	"https://pkg.go.dev/google.golang.org/grpc"
+	"google.golang.org/grpc"
 
 	pb "https://github.com/grpc/grpc-go/tree/master/examples/features/proto/echo"
 )
